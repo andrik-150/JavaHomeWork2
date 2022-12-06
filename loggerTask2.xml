@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-06T11:55:07.423168700Z</date>
+  <millis>1670327707423</millis>
+  <nanos>168700</nanos>
+  <sequence>0</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сообщение</message>
+</record>
+<record>
+  <date>2022-12-06T11:55:07.472397100Z</date>
+  <millis>1670327707472</millis>
+  <nanos>397100</nanos>
+  <sequence>1</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сообщение</message>
+</record>
+<record>
+  <date>2022-12-06T11:55:07.474394300Z</date>
+  <millis>1670327707474</millis>
+  <nanos>394300</nanos>
+  <sequence>2</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сообщение</message>
+</record>
+<record>
+  <date>2022-12-06T11:55:07.475396500Z</date>
+  <millis>1670327707475</millis>
+  <nanos>396500</nanos>
+  <sequence>3</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сообщение</message>
+</record>
+<record>
+  <date>2022-12-06T11:55:07.475396500Z</date>
+  <millis>1670327707475</millis>
+  <nanos>396500</nanos>
+  <sequence>4</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сообщение</message>
+</record>
+<record>
+  <date>2022-12-06T11:55:07.477394200Z</date>
+  <millis>1670327707477</millis>
+  <nanos>394200</nanos>
+  <sequence>5</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сообщение</message>
+</record>
+<record>
+  <date>2022-12-06T11:55:07.479405700Z</date>
+  <millis>1670327707479</millis>
+  <nanos>405700</nanos>
+  <sequence>6</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сообщение</message>
+</record>
+<record>
+  <date>2022-12-06T11:55:07.480395600Z</date>
+  <millis>1670327707480</millis>
+  <nanos>395600</nanos>
+  <sequence>7</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сообщение</message>
+</record>
+<record>
+  <date>2022-12-06T11:55:07.482407300Z</date>
+  <millis>1670327707482</millis>
+  <nanos>407300</nanos>
+  <sequence>8</sequence>
+  <logger>Task2</logger>
+  <level>INFO</level>
+  <class>Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сообщение</message>
+</record>
+</log>
